@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidHW2</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_send">Send</string>
+    <string name="header_new_message">Enter notification message</string>
+    <string name="header_notification">From my app</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="hint_new_message">Enter your message</string>
+</resources>
